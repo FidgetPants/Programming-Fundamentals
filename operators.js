@@ -1,6 +1,6 @@
 var a = 10;
 var b = 25;
-result = a + b;
-result = b - a;
-result = a * b;
-result = b / a;
+var result1 = a + b;
+var result2 = b - a;
+var result3 = a * b;
+var result4 = b / a;
