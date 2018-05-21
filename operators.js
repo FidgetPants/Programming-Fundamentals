@@ -9,3 +9,6 @@ alert (result1);
 alert (result2);
 alert (result3);
 alert (result4);
+
+"""a++ means +1 to a"""
+"""a--- means -1 to a"""
