@@ -10,5 +10,6 @@ alert (result2);
 alert (result3);
 alert (result4);
 
-"""a++ means +1 to a"""
-"""a--- means -1 to a"""
+//a++ means +1 to a
+//a--- means -1 to a
+//means everything after this is ignored in the code
